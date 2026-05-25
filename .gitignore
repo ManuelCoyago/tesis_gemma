@@ -1,0 +1,20 @@
+# Entorno virtual y dependencias
+entorno_tesis/
+venv/
+.venv
+
+# Archivos de registro y logs de ejecución en segundo plano
+*.log
+nohup.out
+
+# DATASET LOCAL (Las imágenes pesadas NO se suben a GitHub)
+dataset_imagenes_ttt/
+
+# Archivos comprimidos de respaldo
+*.zip
+*.rar
+
+# Archivos temporales del sistema y de Python
+__pycache__/
+*.pyc
+.DS_Store
