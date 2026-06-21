@@ -9,7 +9,12 @@ venv/
 nohup.out
 
 # DATASET LOCAL (Las imágenes pesadas NO se suben a GitHub)
-dataset_imagenes_ttt/
+dataset_imagenes_ttt_v1/
+dataset_imagenes_ttt_v2/
+
+dataset_imagenes_ttt_balanced/
+minimax_dataset/
+
 
 # Archivos comprimidos de respaldo
 *.zip
