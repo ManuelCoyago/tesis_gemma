@@ -2,6 +2,7 @@
 entorno_tesis/
 venv/
 .venv
+.env
 
 # Archivos de registro y logs de ejecución en segundo plano
 *.log
